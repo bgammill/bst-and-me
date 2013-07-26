@@ -4,9 +4,9 @@ bst-and-me
 
 ### Progression
 Ideally, I want to implement each BST in this order
- 1. JavaScript
- 2. PHP
- 3. C#
+ 1. ~~JavaScript~~
+ 2. ~~PHP~~
+ 3. ~~C#~~
  4. Java
  5. Scala
  6. Python
